@@ -1,6 +1,14 @@
-EOL while scanning string literal
+1. EOL while scanning string literal
 
-the problem about reture empty frame after pandas appending
+2. the problem about reture empty frame after pandas appending
 
 https://stackoverflow.com/questions/49463949/appending-dataframe-to-empty-dataframe-is-not-working
+
+3. another is every university has different styles of subject codes
+
+4. the python regex cheat sheet would be useful
+
+https://www.dataquest.io/blog/regex-cheatsheet/
+
+
 
